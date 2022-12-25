@@ -9,7 +9,7 @@
       "jss-main"
     ],
     "sitecoreConfigPath": "/App_Config/Include/zzz",
-    "graphQLEndpointPath": "/sitecore/api/graph/edge",
+    "graphQLEndpointPath": "https://edge.sitecorecloud.io/api/graphql/v1",
     "language": "en",
     "templates": [
       "nextjs",
